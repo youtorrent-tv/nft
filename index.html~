@@ -59,10 +59,12 @@ https://templatemo.com/tm-577-liberty-market
                     <!-- ***** Menu Start ***** -->
                     <ul class="nav">
                         <li><a href="index.html" class="active">Home</a></li>
+<!--                        
                         <li><a href="explore.html">Explore</a></li>
                         <li><a href="details.html">Item Details</a></li>
                         <li><a href="author.html">Author</a></li>
                         <li><a href="create.html">Create Yours</a></li>
+                        -->
                     </ul>   
                     <a class='menu-trigger'>
                         <span>Menu</span>
@@ -105,13 +107,37 @@ https://templatemo.com/tm-577-liberty-market
             <div class="item">
               <img src="assets/images/banner-03.png" alt="">
             </div>
+             <div class="item">
+              <img src="assets/images/banner-04.png" alt="">
+            </div>
+            <div class="item">
+              <img src="assets/images/banner-05.png" alt="">
+            </div>
+            <div class="item">
+              <img src="assets/images/banner-06.png" alt="">
+            </div>
+            <div class="item">
+              <img src="assets/images/banner-07.png" alt="">
+            </div>
+            <div class="item">
+              <img src="assets/images/banner-08.png" alt="">
+            </div>
+            <div class="item">
+              <img src="assets/images/banner-09.png" alt="">
+            </div>
+            <div class="item">
+              <img src="assets/images/banner-10.png" alt="">
+            </div>
+            <div class="item">
+              <img src="assets/images/banner-11.png" alt="">
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
   <!-- ***** Main Banner Area End ***** -->
-  
+  <!--
   <div class="categories-collections">
     <div class="container">
       <div class="row">
@@ -491,7 +517,7 @@ https://templatemo.com/tm-577-liberty-market
       </div>
     </div>
   </footer>
-
+-->
 
   <!-- Scripts -->
   <!-- Bootstrap core JavaScript -->
